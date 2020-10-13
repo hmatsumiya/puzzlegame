@@ -1,0 +1,17 @@
+:root {
+    --font-size: 1.1em;
+    --cell-size: 1.5rem;
+    --font-family: sans-serif;
+    --color-00: #00000000;
+    --color-01: #424242;
+    --color-02: #757575;
+    --color-03: #FFFFFF;
+    --color-04: #F0FFFF;
+    --color-05: #FFF3CC;
+    --color-06: #FFDFDD;
+    --color-07: #FFCBA4;
+    --color-08: #D7A37C;
+    --color-09: #00FF00;
+    --color-10: #9E9E9E;
+    --border: solid 1px;
+}
